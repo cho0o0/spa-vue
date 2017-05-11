@@ -37,5 +37,5 @@ Otherwise, you could also give me the feedback by using GitHub's issues.
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
 __WARNING__ I don't own all the copyrights of the images used in the project. Please check their licenses before usage.
