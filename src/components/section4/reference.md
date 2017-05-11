@@ -1,0 +1,3 @@
+- [A JavaScript library for building user interfaces | React](https://syon.github.io/wiki/react/)  
+- [An Introduction to Life Cycle Events in React](https://tylermcginnis.com/an-introduction-to-life-cycle-events-in-react-js/)  
+- [2016 JavaScript Rising Stars](https://risingstars2016.js.org/en/)
